@@ -31,7 +31,7 @@
     "@astrojs/tailwind": "^6.0.2",
     "@skeletonlabs/skeleton": "^2.11.0",
     "@skeletonlabs/tw-plugin": "^0.4.0",
-    "astro": "^5.14.5",
+    "astro": "^5.15.6",
     "svelte": "^5.40.1",
     "tailwindcss": "^3.4.18"
   },
